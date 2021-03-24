@@ -1,0 +1,17 @@
+{
+  "appId": "com.kitabytes.songrng",
+  "appName": "SongRNG",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1000
+    }
+  },
+  "cordova": {},
+  "server": {
+    "url": "http://127.0.0.1:5000",
+    "cleartext": true
+  }
+}
